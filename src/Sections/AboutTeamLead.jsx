@@ -7,23 +7,23 @@ const AboutTeamLead = () => {
 
   const teamLeadData = [
     {
-        name: 'Walkor Mattox',
-        position: 'Founder + CEO',
+        name: 'Jordan Blake',
+        position: 'Chief Executive Officer',
         image: TeamLead1,
     },
     {
-        name: 'Marcella Buttler',
-        position: 'Chief People Officer',
+        name: 'Muhammad Hamza Shakoor',
+        position: 'Chief Technical Officer',
         image: TeamLead2,
     },
     {
-        name: 'Walkor Mattox',
-        position: 'Founder + CEO',
+        name: 'Haris Javed',
+        position: 'Head of Engineering Department',
         image: TeamLead1,
     },
     {
-        name: 'Kristin',
-        position: 'Chief Of Staff',
+        name: 'Kamran Danish',
+        position: 'Senior Web Developer',
         image: TeamLead2,
     },
   ];

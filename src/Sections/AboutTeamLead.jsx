@@ -2,6 +2,9 @@ import React from 'react'
 import styles from '../styles'
 import TeamLead1 from '../assets/img/aboutPerson1.png'
 import TeamLead2 from '../assets/img/aboutPerson2.png'
+import TeamLead3 from '../assets/img/aboutPerson3.png'
+import TeamLead4 from '../assets/img/aboutPerson4.png'
+
 
 const AboutTeamLead = () => {
 
@@ -12,19 +15,19 @@ const AboutTeamLead = () => {
         image: TeamLead1,
     },
     {
-        name: 'Muhammad Hamza Shakoor',
+        name: 'Muhammad Hamza',
         position: 'Chief Technical Officer',
         image: TeamLead2,
     },
     {
         name: 'Haris Javed',
         position: 'Head of Engineering Department',
-        image: TeamLead1,
+        image: TeamLead3,
     },
     {
         name: 'Kamran Danish',
         position: 'Senior Web Developer',
-        image: TeamLead2,
+        image: TeamLead4,
     },
   ];
 

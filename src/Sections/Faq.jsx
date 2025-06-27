@@ -23,8 +23,8 @@ const Faq = ({faqs}) => {
 
   return (
     <div className={`${styles.descriptionText} bg-dark-900 py-3 flex flex-col items-center gap-8 w-screen`}>
-        <h5 className={`${styles.h5}  text-primary-default`}>F.A.Q</h5>
-        <h1 className={`${styles.h1} text-center leading-snug lg:leading-tight`}>Frequently asked <br />questions</h1>
+        <h5 className={`${styles.h5}  text-primary-default`}>FAQs</h5>
+        <h1 className={`${styles.h1} text-center leading-snug lg:leading-tight`}>Frequently Asked <br />Questions</h1>
         <div className="w-[90%] sm:w-[80%] px-4 sm:px-8 pt-8 sm:pt-12 lg:pt-16 pb-6 sm:pb-10 lg:mt-5 max-w-[1138px] border-2 border-primary-default rounded-lg bg-light-900 text-dark-900">
         
         <ul className="grid grid-cols-1 lg:grid-cols-2 md:gap-x-6 lg:gap-x-12 lg:py-8 md:px-4 lg:px-16">

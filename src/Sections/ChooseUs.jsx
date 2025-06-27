@@ -20,22 +20,22 @@ const ChooseUs = () => {
   const stats = [
     {
       title: "Team",
-      number: 35,
+      number: 15,
       img: smile,
     },
     {
       title: "Projects",
-      number: 80,
+      number: 83,
       img: project,
     },
     {
       title: "Running Project",
-      number: 23,
+      number: 11,
       img: clock,
     },
     {
       title: "Clients",
-      number: 41,
+      number: 26,
       img: client,
     },
   ];
@@ -52,31 +52,31 @@ const ChooseUs = () => {
           >
             <li className="">
               <FaCircleArrowRight className=" fill-primary-default inline mr-6" />
-              Communication
+              24/7 Customer Support
             </li>
             <li className="">
               <FaCircleArrowRight  className=" fill-primary-default inline mr-6" />
-              Code quality
+              Quality Solutions
             </li>
             <li className="">
               <FaCircleArrowRight  className=" fill-primary-default inline mr-6" />
-              Milestone payments
+              Flexible Billing Options
             </li>
             <li className="">
               <FaCircleArrowRight  className=" fill-primary-default inline mr-6" />
-              Maintenance and support
+              Maintenance and Support
             </li>
             <li className="">
               <FaCircleArrowRight  className=" fill-primary-default inline mr-6" />
-              Intellectual property rights
+              Confidentiality and Trust
             </li>
             <li className="">
               <FaCircleArrowRight  className=" fill-primary-default inline mr-6" />
-              Confidentiality and NDA
+              Scalable with your Growth
             </li>
             <li className="">
               <FaCircleArrowRight  className=" fill-primary-default inline mr-6" />
-              First time right process
+              Your All-in-One Software Partner
             </li>
           </ul>
         </div>

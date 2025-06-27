@@ -29,9 +29,9 @@ const Promise = () => {
   }
 
 
-  const promiseCard1 ="To provide professional and caring outsourced support and server management services.";
-  const promiseCard2 ="To provide 24/7/365 certified server administrators working to an industry-leading SLA for you and your customers.";
-  const promiseCard3 ="Provide high-quality outsourced support services with flexible billing options to match your company’s needs.";
+  const promiseCard1 ="To offer professional and helpful support. You would not need to go anywhere else.";
+  const promiseCard2 ="Customers can get help at any time of day or night. We offer free support for a limited time.";
+  const promiseCard3 ="High-quality, data-driven solutions that are efficient, scalable, and customized to your exact needs.";
 
 
   return (
@@ -47,15 +47,15 @@ const Promise = () => {
             <div className='flex flex-col md:w-[40%] xl:w-[45%] gap-8 items-center md:items-start'>
                 <h1 className={`${styles.h1} text-center md:text-start`}>Ensuring 100% Satisfaction</h1>
                 <div>
-                    <p className={`${styles.p2} mb-4 text-center md:text-start`}>Our team of software development & support engineers ensure uninterrupted service.</p>
+                    <p className={`${styles.p2} mb-4 text-center md:text-start`}>Our team of software engineers and IT support experts makes sure that you get un-interrupted service.</p>
                     <ul className={`${styles.p2} list-disc list-outside space-y-2 ml-4`}>
-                        <li >Experienced team of developers and support engineers</li>
-                        <li>Proven track record of delivering successful software solutions</li>
-                        <li>Utilization of the latest technologies and best practices</li>
-                        <li>Agile development process for timely delivery and regular updates</li>
-                        <li>24/7 availability and support</li>
-                        <li>Competitive pricing and flexible engagement models</li>
-                        <li>Commitment to client satisfaction</li>
+                        <li>Experienced team of engineers and designers with a combined experience of 10 years.</li>
+                        <li>Proven track record of delivering useful software solutions.</li>
+                        <li>Use of the latest technologies and best practices</li>
+                        <li>Agile development process to ensure timely delivery and regular updates</li>
+                        <li>Access around the clock and support.</li>
+                        <li>Reasonable costs and flexible engagement models.</li>
+                        <li>Commitment to client satisfaction.</li>
                     </ul>
                 </div>
                 <Link

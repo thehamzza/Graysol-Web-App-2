@@ -5,32 +5,37 @@ import {HelpCard} from '../Components/HelpCard'
 const Help = ({page, pageType=''}) => {
     
   const homeHelpCard = [
-    {
-        title: "High Quality Service",
-        description: "Software development outsourcing allows companies to save money and resources while still getting high-quality software development services. Graysol specializes in providing these outsourcing services to businesses of all sizes."
-    },
-    {
-        title: "Highly Skilled Team",
-        description: "Our experienced software developers work under a project manager tobuild custom software solutions that meet your specific business needs. They have worked on a variety of projects for clients in various industries."
-    },
-    {
-        title: "Custom Solutions",
-        description: "Our efficient and skilled software developers build custom software solutions that meet your specific business needs and so you can have tailored solutions well suited for your business."
-    },
-    {
-        title: "Multi Industry Experience",
-        description: "Our experts have worked on a variety of projects for clients in various industries, and they have the technical expertise and experience to handle even the most complex software development projects."
-    },
-    {
-        title: "Cost Effective",
-        description: "Outsourcing software development services & support needs to Graysol can be much more cost-effective than hiring an in-house team. We offer flexible engagement models that allow you to choose the level of involvement you want in the development process."
-
-    },
-    {
-        title: "Dedicated Team",
-        description: "Whether you need a dedicated team to work on a project or just want to hire a few developers on an as-needed basis, Graysol can providea solution that meets your needs by meeting the highest standards of quality."
-    },
-  ]
+  {
+    title: "Reliable Service",
+    description:
+      "Our outsourcing model provides consistent, high-quality solutions to keep your business running smoothly. You can count on us to deliver without disruption. We stay reliable so you can stay focused."
+  },
+  {
+    title: "Skilled Professionals",
+    description:
+      "Experts manage a talented team of developers and designers to deliver tailored solutions that meet your needs. Every team member brings deep expertise and focus. We bring the right people to your project."
+  },
+  {
+    title: "Dedicated Team",
+    description:
+      "Get full support from project managers, engineers, designers, and technical staff committed to your project. Your goals are our priority at every stage. We’re with you from idea to launch."
+  },
+  {
+    title: "Custom Solutions",
+    description:
+      "We tailor solutions to your business's specific needs, goals, and challenges. No off-the-shelf answers—just what fits your vision best. Every line of code reflects your needs."
+  },
+  {
+    title: "Multi-Industry Expertise",
+    description:
+      "Our team has extensive experience in various industries, including Fintech, Healthcare, EdTech, Retail, and Media. We adapt fast to your industry's unique demands. We speak your industry's language."
+  },
+  {
+    title: "Cost-Effective",
+    description:
+      "Get high-quality services at reasonable rates with flexible engagement models that fit your budget. Save costs without compromising on quality. Invest smart with Graysol."
+  }
+]
   
   return (
     <div className='w-screen bg-dark-900 py-4 lg:py-10 xl:py-16'>

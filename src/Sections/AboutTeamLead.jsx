@@ -49,7 +49,7 @@ const AboutTeamLead = () => {
                 Get to Know Us
             </h2>
             <p className={`${styles.p2} mt-5 px-[8%]`}>
-                Our head Solutioneers lead with passion and humility, and they keep it real with a healthy dose of sarcasm.
+                Our top Solutioneers lead with passion and humility, and they keep things real with a healthy dose of sarcasm.
             </p>
             <div className={`w-[90%] sm:w-full mx-auto rounded-3xl sm:rounded-none bg-dark-800 grid grid-cols-1 sm:grid-cols-2 mt-3 py-8 sm:py-16 sm:px-[6%] place-items-center gap-8 sm:gap-x-6 xl:gap-x-10`}>
                 {teamLeadData.map((data, index) => (

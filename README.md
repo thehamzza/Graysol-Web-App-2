@@ -27,8 +27,8 @@ Gray Solutions is a leading software agency that provides web app development, c
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/your-username/graysol-frontend.git
-cd graysol-frontend
+git clone https://github.com/thehamzza/Graysol-Web-App-2.git
+cd Graysol-Web-App-2
 ```
 
 ### Installing Dependencies

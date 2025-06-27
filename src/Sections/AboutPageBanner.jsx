@@ -15,13 +15,13 @@ const AboutPageBanner = () => {
                 REBELS WITH A CAUSE
             </h1>
             <p className={`${styles.p3} relative z-30`}>
-                Gray Solutions is a collective of unconventional thinkers who thrive on pushing boundaries and embracing challenges that others run from. From assembling a team of audacious Solutioneers to handpicking partners with cutting-edge tech, we take pride in the company we keep and the work we do.
+                Graysol is a group of unconventional thinkers who thrive on pushing boundaries and accepting challenges that others avoid. From assembling a team of audacious solutioneers to handpicking partners with cutting-edge technology, we are proud of the company we keep and the work we do.     
             </p>
         </div>
         <h5 className={`${styles.h5}`}>
             We’re Here To 
             <span className='text-primary-default'>
-               &nbsp; Revolutionize Our Industry.
+               &nbsp; Revolutionize Digital Industry.
             </span>
         </h5>
     </div>

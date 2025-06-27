@@ -53,13 +53,22 @@ const AboutCompanyVision = () => {
             </p>
             <ul className={`${styles.p2} list-disc space-y-2 md:space-y-4`}>
               <li>
-                We put safety and quality of life first.
+                Customer First: We prioritize relationships and exceed expectations.
               </li>
               <li>
-                We are customer and relationship driven.
+                Innovation: Our solutions are driven by bold ideas.
               </li>
               <li>
-                We treat others the way we want to be treated, where everyone is welcome and respected.
+                Integrity: We operate with trust and confidentiality.
+              </li>
+              <li>
+               Quality of Life: We improve people's lives by providing meaningful digital experiences.
+              </li>
+              <li>
+                Inclusion: Everyone is valued, respected, and heard.
+              </li>
+              <li>
+                Growth: We value learning and continuous improvement.
               </li>
             </ul>
           </div>
@@ -71,18 +80,18 @@ const AboutCompanyVision = () => {
           </h3>
           <div className='col-span-2 border-l-[3px] border-primary-default pl-6 md:pl-10 lg:pl-16 lg:pr-2 py-5 md:py-10 lg:py-14'>
             <p className={styles.p2}>
-              The trusted leader in process innovation where the best want to belong.
+              Empower businesses with innovative software solutions that create meaningful change and long-term impact.
             </p>
           </div>
         </div>
 
         <div className='grid grid-cols-subgrid col-span-3 border-b-[3px] border-primary-default place-items-center'>
           <h3 className={`${styles.h3} col-span-1 text-center tracking-wide `}>
-            Our Vision
+            Our Mission
           </h3>
           <div className='col-span-2 border-l-[3px] border-primary-default pl-6 md:pl-10 lg:pl-16 lg:pr-2 py-5 md:pt-10 lg:pt-12 lg:pb-8'>
             <p className={styles.p2}>
-              Trusted advisors delivering outcome based solutions through deep collaboration and lasting partnerships, while providing fulfilling team experiences.
+              Provide customized technology solutions that simplify processes, solve real-world challenges, and accelerate business growth.
             </p>
           </div>
         </div>
@@ -98,7 +107,7 @@ const AboutCompanyVision = () => {
                 Where it Began
               </h3>
               <p className={`${styles.p2} capitalize `}>
-                When CEO Walker Mattox founded Gray Solutions, he set out to shake up an industry that relies too heavily on inside-the-box thinking. Fast forward to today, and we’re a thriving system integrator who is revolutionizing business for our customers and ourselves.
+                Graysol was born from a bold idea in a dorm room at NUST, with the goal of changing the software industry by providing simple, efficient solutions to solve customer issues. From the beginning, we were committed to making an impact through innovative thinking and providing free consultations to assist businesses in taking the first steps toward growth. What started as a product-based initiative quickly grew into a full-service development agency, motivated by a desire to help businesses across industries.
               </p>
               <div className='space-y-3 flex flex-col items-center lg:items-start lg:pt-5'>
                 <img
@@ -107,10 +116,9 @@ const AboutCompanyVision = () => {
                   alt="The commas icons" 
                 />
                 <p className={`${styles.p2}`}>
-                  There’s nothing more inspiring than seeing a product out in the world that our Solutioneers have influenced or helped bring to market with innovative thinking.
-                </p>
+                  Nothing inspires me more than seeing our solutions thrive in the real world, bringing ideas to life and making an actual difference.  </p>
                 <p className={`${styles.p4} tracking-wider`}>
-                  Walker Mattox
+                  Jordan Blake
                 </p>
               </div>
               
@@ -122,92 +130,93 @@ const AboutCompanyVision = () => {
                     {/* 1st slide */}
                   <div className=' p-6 md:p-8 space-y-10 lg:space-y-16'>
                     <h4 className={`${styles.h4}`}>
-                      Gray Solution Is Founded
+                      Graysol Is Founded
                     </h4>
                     <div className='space-y-3 lg:space-y-5'>
                       <div className={`flex items-center gap-2 tracking-wide ${styles.p4}`}>
                           <span 
                           className='w-2 h-2 static inline-block bg-primary-default rounded-full'>
                           </span> 
-                          2018
+                          2019
                       </div>
                       <p className={`capitalize ${styles.p3}`}>
-                        When CEO Walker Mattox founded Gray Solutions, he set out to shake up an industry that relies too heavily on Inside-the-box thinking. Backed by Gray, a global leader recognized for services spanning engineering, design, construction, and specialty equipment manufacturing, Gray Solutions earned its stripes on a world-class pet food operation. Fast forward to today, and we're a thriving system integrator who is revolutionizing business for our customers and ourselves.
+                      Founded in a university dorm room with the goal of changing the industry by offering quick, easy solutions and free consultations.
                       </p>
                     </div>
                   </div>
                   {/* 2nd Slide */}
                   <div className=' p-6 md:p-8 space-y-10 lg:space-y-16'>
                     <h4 className={`${styles.h4}`}>
-                      Gray Solution Is Founded
+                       Built and Shipped Products
                     </h4>
                     <div className='space-y-3 lg:space-y-5'>
                       <div className={`flex items-center gap-2 tracking-wide ${styles.p4}`}>
                           <span 
                           className='w-2 h-2 static inline-block bg-primary-default rounded-full'>
                           </span> 
-                          2018
+                          2020
                       </div>
                       <p className={`capitalize ${styles.p3}`}>
-                        When CEO Walker Mattox founded Gray Solutions, he set out to shake up an industry that relies too heavily on Inside-the-box thinking. Backed by Gray, a global leader recognized for services spanning engineering, design, construction, and specialty equipment manufacturing, Gray Solutions earned its stripes on a world-class pet food operation. Fast forward to today, and we're a thriving system integrator who is revolutionizing business for our customers and ourselves.
+                      Built and launched SaaS products; some were successful, others failed, and a few were sold. Lessons from failed ventures shaped our growth and refined our strategy.
                       </p>
                     </div>
                   </div>
                   {/* 3rd slide */}
                   <div className=' p-6 md:p-8 space-y-10 lg:space-y-16'>
                     <h4 className={`${styles.h4}`}>
-                      Gray Solution Is Founded
+                    Transitioned to Service-Based Operations
                     </h4>
                     <div className='space-y-3 lg:space-y-5'>
                       <div className={`flex items-center gap-2 tracking-wide ${styles.p4}`}>
                           <span 
                           className='w-2 h-2 static inline-block bg-primary-default rounded-full'>
                           </span> 
-                          2018
+                          2021
                       </div>
                       <p className={`capitalize ${styles.p3}`}>
-                        When CEO Walker Mattox founded Gray Solutions, he set out to shake up an industry that relies too heavily on Inside-the-box thinking. Backed by Gray, a global leader recognized for services spanning engineering, design, construction, and specialty equipment manufacturing, Gray Solutions earned its stripes on a world-class pet food operation. Fast forward to today, and we're a thriving system integrator who is revolutionizing business for our customers and ourselves.
+                      Completed the transition to service-based operations, growing the team and establishing itself as a trustworthy partner to businesses across industries.
                       </p>
                     </div>
                   </div>
                   {/* 4th slide */}
                   <div className=' p-6 md:p-8 space-y-10 lg:space-y-16'>
                     <h4 className={`${styles.h4}`}>
-                      Gray Solution Is Founded
+                       Grew Global Presence Through Key Partnerships
                     </h4>
                     <div className='space-y-3 lg:space-y-5'>
                       <div className={`flex items-center gap-2 tracking-wide ${styles.p4}`}>
                           <span 
                           className='w-2 h-2 static inline-block bg-primary-default rounded-full'>
                           </span> 
-                          2018
+                          2022
                       </div>
                       <p className={`capitalize ${styles.p3}`}>
-                        When CEO Walker Mattox founded Gray Solutions, he set out to shake up an industry that relies too heavily on Inside-the-box thinking. Backed by Gray, a global leader recognized for services spanning engineering, design, construction, and specialty equipment manufacturing, Gray Solutions earned its stripes on a world-class pet food operation. Fast forward to today, and we're a thriving system integrator who is revolutionizing business for our customers and ourselves.
+                        Partnered with over 30 US businesses, mainly in the wellness and healthcare sectors, and formed new alliances to expand our services globally.
+
                       </p>
                     </div>
                   </div>
                   {/* 5th slide */}
                   <div className=' p-6 md:p-8 space-y-10 lg:space-y-16'>
                     <h4 className={`${styles.h4}`}>
-                      Gray Solution Is Founded
+                      Expanded to Qatar, USA, Pakistan
                     </h4>
                     <div className='space-y-3 lg:space-y-5'>
                       <div className={`flex items-center gap-2 tracking-wide ${styles.p4}`}>
                           <span 
                           className='w-2 h-2 static inline-block bg-primary-default rounded-full'>
                           </span> 
-                          2018
+                          2023
                       </div>
                       <p className={`capitalize ${styles.p3}`}>
-                        When CEO Walker Mattox founded Gray Solutions, he set out to shake up an industry that relies too heavily on Inside-the-box thinking. Backed by Gray, a global leader recognized for services spanning engineering, design, construction, and specialty equipment manufacturing, Gray Solutions earned its stripes on a world-class pet food operation. Fast forward to today, and we're a thriving system integrator who is revolutionizing business for our customers and ourselves.
+                       International operations expanded, with a presence in Qatar, the United States, and Pakistan.
                       </p>
                     </div>
                   </div>
                   {/* 6th slide */}
                   <div className=' p-6 md:p-8 space-y-10 lg:space-y-16'>
                     <h4 className={`${styles.h4}`}>
-                      Gray Solution Is Founded
+                      Our Work Featured in Times Square and Forbes
                     </h4>
                     <div className='space-y-3 lg:space-y-5'>
                       <div className={`flex items-center gap-2 tracking-wide ${styles.p4}`}>
@@ -217,7 +226,7 @@ const AboutCompanyVision = () => {
                           2018
                       </div>
                       <p className={`capitalize ${styles.p3}`}>
-                        When CEO Walker Mattox founded Gray Solutions, he set out to shake up an industry that relies too heavily on Inside-the-box thinking. Backed by Gray, a global leader recognized for services spanning engineering, design, construction, and specialty equipment manufacturing, Gray Solutions earned its stripes on a world-class pet food operation. Fast forward to today, and we're a thriving system integrator who is revolutionizing business for our customers and ourselves.
+                        Reached a major milestone with a feature on the iconic Times Square billboard, while our clients were recognized in Fortune 500 and Forbes, highlighting our journey and shared success.
                       </p>
                     </div>
                   </div>

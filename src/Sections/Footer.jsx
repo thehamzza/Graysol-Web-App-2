@@ -22,11 +22,11 @@ const Footer = () => {
             <h1 htmlFor='logo1' className={`text-light-900 font-medium text-[38px] group-hover:pointer`}>Graysol</h1>
           </div>
           </Element>
-          <p className={`${styles.p2}`} >Proudly Based in Pakistan</p>
+          <p className={`${styles.p2}`} >Serving clients globally.</p>
           
           <div className='flex items-end gap-2'>
             <img className='w-[19px] h-[19px]' src={Phone} alt="phone-icon" />
-            <p>+923088870328</p>
+            <p>+1 (646) 631-7977</p>
           </div>
           
           <div className='flex items-center gap-2'>
@@ -35,7 +35,7 @@ const Footer = () => {
           </div>
           <div className='flex items-center gap-2'>
             <img className='w-[19px] h-[17px]' src={Email} alt="email-icon" />
-            <p>graysol.co@gmail.com</p>
+            <p>contact@graysol.co</p>
           </div>
         </div>
         <div className='space-y-8 lg:w-[25%]  '>
@@ -57,8 +57,8 @@ const Footer = () => {
           <div  className={`${styles.p2} space-y-6`}>
             <p className={`${styles.p2} text-primary-default`}>WE ARE AT</p>
             <ul className='space-y-3 list-disc list-inside'>
+              <li className=''>United States</li>
               <li className=''>Pakistan</li>
-              <li className=''>USA</li>
               <li className=''>Qatar</li>
             </ul>
           </div>
@@ -82,7 +82,7 @@ const Footer = () => {
       <div className='w-full lg:w-[90%] sm:max-w-[1138px]  mx-auto bg-dark-900 text-light-900  pl-[8vw] sm:pl-16 xl:pl-0   py-4 lg:py-6 lg:mt-8'>
               <p className={`font-light ${styles.p2}`}>
                 <span className=' text-dark-100'>&copy; </span>
-                2024 Graysol. All Rights Reserved
+                2025 Graysol LLC. All Rights Reserved
               </p>
       </div>
     </div>

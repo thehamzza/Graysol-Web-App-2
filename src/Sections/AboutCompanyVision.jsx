@@ -223,7 +223,7 @@ const AboutCompanyVision = () => {
                           <span 
                           className='w-2 h-2 static inline-block bg-primary-default rounded-full'>
                           </span> 
-                          2018
+                          2024
                       </div>
                       <p className={`capitalize ${styles.p3}`}>
                         Reached a major milestone with a feature on the iconic Times Square billboard, while our clients were recognized in Fortune 500 and Forbes, highlighting our journey and shared success.

@@ -9,26 +9,38 @@ import TeamLead4 from '../assets/img/aboutPerson4.png'
 const AboutTeamLead = () => {
 
   const teamLeadData = [
-    {
-        name: 'Jordan Blake',
-        position: 'Chief Executive Officer',
-        image: TeamLead1,
-    },
-    {
-        name: 'Muhammad Hamza',
-        position: 'Chief Technical Officer',
-        image: TeamLead2,
-    },
-    {
-        name: 'Haris Javed',
-        position: 'Head of Engineering Department',
-        image: TeamLead3,
-    },
-    {
-        name: 'Kamran Danish',
-        position: 'Senior Web Developer',
-        image: TeamLead4,
-    },
+
+    // File: src/Sections/AboutTeamLead.jsx
+
+    // Commented out the entire `teamLeadData` array within the AboutTeamLead component to temporarily remove all team member cards from the About page.
+
+    // - No JSX or rendering logic was removed.
+    // - The section will still render its container and static heading, but without any team members shown.
+    // - All individual objects (Jordan Blake, Muhammad Hamza, Haris Javed, Kamran Danish) remain in the code for easy reactivation.
+    // - This is a non-destructive temporary change for design/content staging.
+
+    // To restore, simply uncomment the `teamLeadData` array.
+    // ----------------
+    // {
+    //     name: 'Jordan Blake',
+    //     position: 'Chief Executive Officer',
+    //     image: TeamLead1,
+    // },
+    // {
+    //     name: 'Muhammad Hamza',
+    //     position: 'Chief Technical Officer',
+    //     image: TeamLead2,
+    // },
+    // {
+    //     name: 'Haris Javed',
+    //     position: 'Head of Engineering Department',
+    //     image: TeamLead3,
+    // },
+    // {
+    //     name: 'Kamran Danish',
+    //     position: 'Senior Web Developer',
+    //     image: TeamLead4,
+    // },
   ];
 
   return (
